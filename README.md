@@ -1,4 +1,14 @@
-# My-first-pro..
-This is my first repository 
-<br>
-author-mr faizan
+# Student Management System
+A Python-based Student Management System
+using SQLite database.
+
+## Features
+- Add Students
+- View Students
+- Search Students
+- Delete Students
+## Technologies Used
+-Python
+-SQLite3
+## Author
+"Mohd Faizan"
